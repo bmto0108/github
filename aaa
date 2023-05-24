@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head><!-- 裏設定エリアの開始 -->
+    <meta charset="utf-8"><!-- 文字化け防止 -->
+</head><!-- 裏設定エリアの終了 -->
+
+<body><!-- 画面に表示されるエリアの開始 -->
+    <a href="https://arvr.google.com/scene-viewer/1.0?file=https://app.vectary.com/p/5L0KFZn1JRq5gjEccM6dY3">View in AR</a>
+</body><!-- 画面に表示されるエリアの終了 -->
+</html>
